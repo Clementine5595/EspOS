@@ -1,2 +1,2 @@
-# espos
+# EspOS
 Operating system for the ESP8266 microcontroller with VGA output...
